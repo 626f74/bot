@@ -6,6 +6,7 @@
   "description": "bleep bloop",
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-auth": "^2.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-gitter2": "^0.1.3",
     "hubot-help": "^0.2.0",
